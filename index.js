@@ -1,1 +1,8 @@
-// Code your solution here
+function findMatching (array, "string") {
+    if (array.includes("string")) {
+        return 
+    }
+    
+
+}
+
